@@ -11,6 +11,8 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    min-width: 48px;
+    min-height: 48px;
 }
 
 a:hover {
@@ -1034,9 +1036,4 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
-}
-a{
-    min-width: 48px;
-    min-height: 48px;
-    
 }
