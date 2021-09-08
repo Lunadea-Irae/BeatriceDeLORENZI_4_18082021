@@ -1035,3 +1035,8 @@ h4 {
         text-align: center;
     }
 }
+#bloc-8 > div > div > div > div:nth-child(3) > div:nth-child(1) > ul > li > a{
+    min-width: 48px;
+    min-height: 48px;
+    
+}
